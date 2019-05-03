@@ -59,3 +59,5 @@ func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
     return out.Next 	//因为每次循环开始都取next点，所以头部为空，取首节点
 }
 ```
+
+GOLANG 24MS 5MB
